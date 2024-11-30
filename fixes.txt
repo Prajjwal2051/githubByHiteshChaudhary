@@ -1,1 +1,3 @@
 fixed one dark mode bug.
+
+fixed second bug.
