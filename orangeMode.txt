@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-2024 footer note.
-=======
 added an 2025 footer note.
->>>>>>> orange-mode
